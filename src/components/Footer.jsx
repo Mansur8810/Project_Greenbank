@@ -2,7 +2,7 @@ import { footercontent } from "../constant";
 
 const Footer = () => {
   return (
-    <footer className="flex flex-wrap py-6 gap-20">
+    <footer className="flex flex-wrap py-6 px-4 my-3 gap-20 bg-gradient-to-r from-[#283430] to-transparent rounded-xl">
       <article className="text-xl">
         <div className="flex gap-3">
           <img src="/logo/Exclude.svg" alt="" className="font-mplus1" />
