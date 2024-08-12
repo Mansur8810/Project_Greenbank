@@ -2,7 +2,7 @@ import Button from "../components/Button";
 
 const Hero = () => {
   return (
-    <section className="hero  min-h-screen relative overflow-x-hidden">
+    <section className="hero  min-h-screen relative">
       <div className="hero-content flex-col lg:flex-row-reverse  ">
         <figure className="relative">
           <div className="lg:size-[392px] overflow-visible  bg-primary rounded-full -z-30 absolute -right-20 mt-10"></div>

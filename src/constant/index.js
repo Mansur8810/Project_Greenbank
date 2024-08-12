@@ -70,21 +70,21 @@ export const OfferContent = [
 export const MarketingContent = [
   {
     imgSrc: "uiux",
-    paraghraph:
+    paragraph:
       "Great session! Dani was super helpful. She shared some practical advice on how can lorem ip we go about refining our service offerings",
     heading: "Hadid Khan",
     skills: "UIUX designer",
   },
   {
     imgSrc: "webdesigner",
-    paraghraph:
+    paragraph:
       "Great session! Dani was super helpful. She shared some practical advice on how can lorem ip we go about refining our service offerings",
     heading: "Hadid Khan",
     skills: "web designer",
   },
   {
     imgSrc: "administrator",
-    paraghraph:
+    paragraph:
       "Great session! Dani was super helpful. She shared some practical advice on how can lorem ip we go about refining our service offerings",
     heading: "jenny Wilson",
     skills: "administrator designer",
