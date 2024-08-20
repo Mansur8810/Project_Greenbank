@@ -12,12 +12,12 @@ import Manage from "./sections/Manage";
 import Footer from "./components/Footer";
 function App() {
   return (
-    <div className="container overflow-x-clip bg-hero-pattern ">
+    <div className="container overflow-x-clip bg-hero-pattern bg-no-repeat bg-cover ">
       <Navbar />
       <section className="md:space-y-32 space-y-12">
         <Hero />
         <Stat />
-        <Clients />
+        <Clients /> 
         <Offer />
         <Features />
       </section>
